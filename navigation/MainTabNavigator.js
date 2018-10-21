@@ -80,9 +80,9 @@ ImagesStack.navigationOptions = {
 }
 
 export default createBottomTabNavigator({
-  HomeStack,
-  LinksStack,
-  SettingsStack,
+  //HomeStack,
+  //LinksStack,
+  //SettingsStack,
   CameraStack,
   ImagesStack,
 });
